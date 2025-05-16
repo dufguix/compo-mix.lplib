@@ -1,0 +1,13 @@
+(librepcb_device 6b688cf3-17d0-4d06-a567-48c25c08f1ba
+ (name "Enclosure Amazon 100x60x25")
+ (description "")
+ (keywords "")
+ (author "dufguix")
+ (version "0.1")
+ (created 2024-12-30T09:03:20Z)
+ (deprecated false)
+ (generated_by "")
+ (category 0c94698c-6828-4134-9c59-5b4ef69d1eec)
+ (component f4c82dc9-3418-45ee-853c-c1eafee3e0e9)
+ (package c69a95e6-8e96-4212-8177-6e21d98c3e85)
+)

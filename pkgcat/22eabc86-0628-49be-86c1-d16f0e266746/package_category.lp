@@ -1,0 +1,10 @@
+(librepcb_package_category 22eabc86-0628-49be-86c1-d16f0e266746
+ (name "WeActStudio")
+ (description "")
+ (keywords "")
+ (author "dufguix")
+ (version "0.1")
+ (created 2024-12-16T10:30:11Z)
+ (deprecated false)
+ (parent 194951ec-03dd-412a-9828-70c40bbdd22d)
+)

@@ -1,0 +1,10 @@
+(librepcb_component_category a0323188-8464-45d1-b3fe-900864f53c8b
+ (name "DRAM")
+ (description "")
+ (keywords "")
+ (author "dufguix")
+ (version "0.1")
+ (created 2024-12-11T09:31:32Z)
+ (deprecated false)
+ (parent f81c3abf-dfbe-4464-b4d9-cc9824959f56)
+)

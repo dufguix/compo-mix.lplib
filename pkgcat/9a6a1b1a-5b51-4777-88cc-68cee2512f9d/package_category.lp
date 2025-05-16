@@ -1,0 +1,10 @@
+(librepcb_package_category 9a6a1b1a-5b51-4777-88cc-68cee2512f9d
+ (name "Display")
+ (description "")
+ (keywords "")
+ (author "dufguix")
+ (version "0.1")
+ (created 2024-12-10T18:03:05Z)
+ (deprecated false)
+ (parent none)
+)

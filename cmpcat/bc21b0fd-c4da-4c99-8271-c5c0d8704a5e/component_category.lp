@@ -1,0 +1,10 @@
+(librepcb_component_category bc21b0fd-c4da-4c99-8271-c5c0d8704a5e
+ (name "EEPROM")
+ (description "")
+ (keywords "")
+ (author "dufguix")
+ (version "0.1")
+ (created 2024-12-11T09:33:26Z)
+ (deprecated false)
+ (parent f81c3abf-dfbe-4464-b4d9-cc9824959f56)
+)

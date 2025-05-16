@@ -1,0 +1,10 @@
+(librepcb_package_category 88a34212-f9a3-4e01-98a5-dbd518129a7c
+ (name "Buzzer")
+ (description "")
+ (keywords "")
+ (author "Guillaume Dufrene")
+ (version "0.1")
+ (created 2024-12-17T09:05:59Z)
+ (deprecated false)
+ (parent none)
+)

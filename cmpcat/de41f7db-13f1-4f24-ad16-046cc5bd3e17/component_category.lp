@@ -1,0 +1,10 @@
+(librepcb_component_category de41f7db-13f1-4f24-ad16-046cc5bd3e17
+ (name "SRAM")
+ (description "")
+ (keywords "")
+ (author "dufguix")
+ (version "0.1")
+ (created 2024-12-11T09:31:52Z)
+ (deprecated false)
+ (parent f81c3abf-dfbe-4464-b4d9-cc9824959f56)
+)

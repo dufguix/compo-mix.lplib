@@ -1,0 +1,10 @@
+(librepcb_component_category 0c94698c-6828-4134-9c59-5b4ef69d1eec
+ (name "Enclosure Format")
+ (description "")
+ (keywords "")
+ (author "dufguix")
+ (version "0.1")
+ (created 2024-12-30T08:26:20Z)
+ (deprecated false)
+ (parent 8ca4f9fb-3dd3-4c1e-a097-6601b437bbc6)
+)

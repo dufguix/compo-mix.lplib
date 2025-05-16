@@ -1,0 +1,10 @@
+(librepcb_component_category b5c76d06-0756-44cc-aee3-828a62f32b5f
+ (name "Flash Memory")
+ (description "")
+ (keywords "")
+ (author "dufguix")
+ (version "0.1")
+ (created 2024-12-11T09:30:07Z)
+ (deprecated false)
+ (parent f81c3abf-dfbe-4464-b4d9-cc9824959f56)
+)
