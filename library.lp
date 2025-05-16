@@ -1,5 +1,5 @@
 (librepcb_library fe2450cd-3cf4-4866-beb7-9fae3d0778d7
- (name "MixedLib")
+ (name "CompoMix")
  (description "")
  (keywords "")
  (author "dufguix")

@@ -1,6 +1,6 @@
 (librepcb_component 3d287730-3d5a-4225-88e4-3d1e2cbf8010
  (name "STM32C071CBT6N")
- (description "Arm® Cortex® M0+ 32-bit MCU, 128 KB flash, 24 KB RAM, 2 x USART, timers, ADC, USB FS, comm. I/Fs, 2-3.6V")
+ (description "Arm® Cortex® M0+ 32-bit MCU, 128 KB flash, 24 KB RAM, 2 x USART, timers, ADC, USB FS, comm. I/Fs, 2-3.6V\n48 pins")
  (keywords "")
  (author "dufguix")
  (version "0.1")

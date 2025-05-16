@@ -1,6 +1,6 @@
 (librepcb_symbol c1261063-c300-464c-a9a8-c109c99f1d95
  (name "STM32C071CBT6N")
- (description "")
+ (description "STM32C071\n48 pins\nVDDIO2")
  (keywords "stm32, stm, st, mcu, microcontroller, arm, cortex")
  (author "dufguix")
  (version "0.1")
