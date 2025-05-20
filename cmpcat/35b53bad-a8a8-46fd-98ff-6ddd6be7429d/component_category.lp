@@ -1,0 +1,10 @@
+(librepcb_component_category 35b53bad-a8a8-46fd-98ff-6ddd6be7429d
+ (name "Circuit Protection")
+ (description "")
+ (keywords "")
+ (author "dufguix")
+ (version "0.1")
+ (created 2025-05-20T13:15:49Z)
+ (deprecated false)
+ (parent none)
+)

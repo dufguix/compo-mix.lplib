@@ -1,0 +1,10 @@
+(librepcb_component_category f75b871e-71b7-44b0-bff2-465c48275a95
+ (name "ESD TVS Diodes")
+ (description "")
+ (keywords "")
+ (author "dufguix")
+ (version "0.1")
+ (created 2025-05-20T13:16:41Z)
+ (deprecated false)
+ (parent 35b53bad-a8a8-46fd-98ff-6ddd6be7429d)
+)
