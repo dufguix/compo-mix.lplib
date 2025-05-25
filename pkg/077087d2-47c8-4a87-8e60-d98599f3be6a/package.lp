@@ -1,5 +1,5 @@
 (librepcb_package 077087d2-47c8-4a87-8e60-d98599f3be6a
- (name "C&K KMR242G LFS")
+ (name "Button C&K KMR242G LFS")
  (description "Tactile Switch, Microminiature, KMR 2 Series, Top Actuated, Surface Mount, Oval Button, 400 gf")
  (keywords "")
  (author "dufguix")
