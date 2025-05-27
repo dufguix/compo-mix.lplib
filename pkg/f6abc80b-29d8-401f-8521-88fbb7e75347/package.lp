@@ -11,10 +11,12 @@
  (assembly_type smt)
  (pad 26355ab5-ef60-4e59-88c2-e87b28c8b8f6 (name "C"))
  (pad aa5c3a6a-a0bf-4edd-95e3-4dc2575e251e (name "A"))
+ (3d_model c8c7f8a5-4a88-4b2a-9365-6fd49658994b (name "SM1206UV-400-IL"))
  (footprint 853554ce-6063-42a7-9fd1-0bec90a31966
   (name "default")
   (description "")
   (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
+  (3d_model c8c7f8a5-4a88-4b2a-9365-6fd49658994b)
   (pad 6f33ccd6-30ee-48dc-bcef-75aea260bb2a (side top) (shape roundrect)
    (position 1.725 0.0) (rotation 0.0) (size 1.5 1.5) (radius 0.0)
    (stop_mask auto) (solder_paste auto) (clearance 0.0) (function standard)

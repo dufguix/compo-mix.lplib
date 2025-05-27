@@ -13,10 +13,12 @@
  (pad f3e0307d-12cc-4a20-b1d8-c5c02bf552f6 (name "1B"))
  (pad 332b9b5e-5f39-4a01-b606-3a613475d104 (name "2A"))
  (pad e82a26dc-3428-42c3-9070-178a9fc2692e (name "2B"))
+ (3d_model 4d50b67b-f15b-4d05-9d7e-4cde85e41724 (name "RKB2SJG250SMTR_LFS"))
  (footprint 178817a7-01d0-4faa-91ab-c67d4052ed48
   (name "default")
   (description "")
   (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
+  (3d_model 4d50b67b-f15b-4d05-9d7e-4cde85e41724)
   (pad 6472cb76-c153-4d9d-b404-bfc4163c2123 (side top) (shape roundrect)
    (position -2.3 1.1) (rotation 0.0) (size 1.0 0.7) (radius 0.0)
    (stop_mask auto) (solder_paste auto) (clearance 0.0) (function standard)

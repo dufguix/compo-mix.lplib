@@ -1,6 +1,6 @@
 (librepcb_package 84849620-da5c-4d38-be16-b2b341257f91
  (name "USB 2.0 Type A Receptacle SMT")
- (description "https://www.farnell.com/datasheets/2623622.pdf")
+ (description "Based on Multicomp USB-A-S-RA-TSMT.\nhttps://www.farnell.com/datasheets/2623622.pdf\n\nSTEP files come from:\n- SAMTEC USB-A-S-F-B-SM2-R-TR\n- SAME SKY UJ2-AH-1-SMT-TR\nThey don't match exactly Multicomp USB-A-S-RA-TSMT.")
  (keywords "")
  (author "dufguix")
  (version "0.1")
@@ -14,10 +14,13 @@
  (pad c9543ab1-6fb8-447f-bae1-a2498ebd5774 (name "D-"))
  (pad 07e1a44c-38a8-4f32-baeb-88841139990d (name "D+"))
  (pad bec623db-a204-4939-91cb-a5373838c7d3 (name "GND"))
+ (3d_model 76d9c3bc-4d0a-497b-8adb-881172720d48 (name "USB-A-S-F-B-SM2-R-TR--3DModel-STEP-56544"))
+ (3d_model 4ebeef4f-8ae2-434c-9a33-5126a0797e4f (name "Same_Sky_UJ2-AH-1-SMT"))
  (footprint 4e471f25-fcc9-4b6d-84c8-05eedf39a4ed
   (name "default")
   (description "")
-  (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
+  (3d_position 0.0 4.45 0.0) (3d_rotation 90.0 0.0 0.0)
+  (3d_model 4ebeef4f-8ae2-434c-9a33-5126a0797e4f)
   (pad 4b0e8ec7-c0d0-4e6f-95a7-7f2d2ad5ecd9 (side top) (shape roundrect)
    (position -7.3 2.0) (rotation 90.0) (size 5.15 2.5) (radius 0.0)
    (stop_mask auto) (solder_paste auto) (clearance 0.0) (function standard)
